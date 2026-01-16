@@ -13,7 +13,7 @@
 ---
 
 ### Screenshots
-<Img src="./img/1.png" width="300"> <Img src="./img/2.png" width="300">
+<Img src="./Img/1.png" width="300"> <Img src="./Img/2.png" width="400">
 
 ---
 
@@ -61,6 +61,7 @@ ferramentas em Phyton que estou desenvolvendo.
 ---
 
 **"Pela preservação e acessibilidade dos jogos clássicos."**
+
 
 
 
