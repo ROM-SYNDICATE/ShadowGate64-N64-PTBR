@@ -8,7 +8,7 @@
 
 | Sistema | Jogo | Status |
 | :---: | :--- | :--- |
-| <img src="https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/gbc.png" width="40"> | Shadowgate 64 : Trials of the Four Towers 'USA' | Investigação Técnica |
+| <img src="https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/n64.png" width="40"> | Shadowgate 64 : Trials of the Four Towers 'USA' | Investigação Técnica |
 
 ---
 
@@ -61,6 +61,7 @@ ferramentas em Phyton que estou desenvolvendo.
 ---
 
 **"Pela preservação e acessibilidade dos jogos clássicos."**
+
 
 
 
