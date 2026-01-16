@@ -1,4 +1,4 @@
-![Banner](./img//shadowgate64-logo.png)
+![Banner](./Img//shadowgate64-logo.png)
 
 **Tradução 1.0**
 
@@ -13,7 +13,7 @@
 ---
 
 ### Screenshots
-<img src="./img/1.png" width="400"> <img src="./img/2.png" width="400">
+<Img src="./img/1.png" width="400"> <Img src="./img/2.png" width="400">
 
 ---
 
@@ -61,6 +61,7 @@ ferramentas em Phyton que estou desenvolvendo.
 ---
 
 **"Pela preservação e acessibilidade dos jogos clássicos."**
+
 
 
 
